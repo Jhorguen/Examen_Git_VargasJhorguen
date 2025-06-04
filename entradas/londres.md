@@ -14,3 +14,10 @@ Compras: Visitar los grandes almacenes de Oxford Street o el mercado de Portobel
 
 ## Foto
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn3uHs13yhLOaku_ci1sULqiMmtUUynK-bYA&s)
+
+## Information
+Moneda: La libra esterlina (GBP).
+Idioma: Inglés.
+Seguridad: Londres es generalmente segura, pero es importante estar atento a los carteristas, especialmente en áreas turísticas.
+Documentación: Se requiere un pasaporte válido y, en algunos casos, un visado.
+Clima: El clima de Londres es templado, con veranos frescos y inviernos suaves. 
