@@ -18,3 +18,7 @@ Tomar el Staten Island Ferry:
 Esta experiencia gratuita ofrece hermosas vistas de la Estatua de la Libertad y el horizonte de Manhattan. 
 Ir de compras:
 Nueva York es un paraíso para los amantes de las compras, con una gran variedad de tiendas y boutiques. 
+
+## Foto
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBQo-Kd653htjq8iapwLMbTujaSku52Ge2Pw&s)
+
