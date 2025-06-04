@@ -20,3 +20,6 @@ Ideal para disfrutar de la naturaleza al aire libre, especialmente en verano.
 
 ## Foto
 ![](https://www.101viajes.com/sites/default/files/styles/guia-full/public/informacion-berlin.jpg)
+
+## Información
+La ciudad es conocida por su ambiente artístico y los sitios geográficos modernos, como la Filarmónica de Berlín, construida en 1963, de color dorado y con un diseño de paneles que se desprenden de su techo. 
