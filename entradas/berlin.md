@@ -17,3 +17,6 @@ Festivales y eventos culturales.
 Espacios verdes:
 Parques, bosques y lagos. 
 Ideal para disfrutar de la naturaleza al aire libre, especialmente en verano. 
+
+## Foto
+![](https://www.101viajes.com/sites/default/files/styles/guia-full/public/informacion-berlin.jpg)
