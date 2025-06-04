@@ -13,3 +13,6 @@ Visitar el Real Jardín Botánico: Disfrute de la naturaleza y la tranquilidad e
 Recorrer la Galería de Arte de Nueva Gales del Sur: Admire una colección de arte australiano e internacional. 
 Visitar el Zoológico Taronga de Sídney: Observe la fauna local y mundial con vistas a la bahía. 
 Hacer un tour de vinos: Disfrute de la cultura vinícola de la región en los viñedos cercanos a Sídney. 
+
+## Photo
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpZ3RCS0KT1xgzoLJ9F2KB4K0hmjYfR_jMyw&s)
