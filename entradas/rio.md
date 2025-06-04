@@ -5,3 +5,6 @@ Río de Janeiro es una enorme ciudad costera de Brasil, famosa por sus playas de
 
 ## Recomendación
 Considera visitar el Cristo Redentor, el Pan de Azúcar, las playas de Copacabana e Ipanema, y la Escalera Selarón. También puedes disfrutar de la naturaleza en el Parque Lage o en la Floresta da Tijuca, o visitar museos como el Museu do Amanhã. Para una experiencia más relajada, puedes disfrutar de la gastronomía local, la música samba y bossa nova, y la animada vida nocturna. 
+
+## Foto
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlQJECvpfc7XyHHKjDAHAJZbSD_k-B0t3FEg&s)
