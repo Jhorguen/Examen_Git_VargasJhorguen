@@ -15,3 +15,6 @@ Mercados: Los mercados de la Merced y San Juan, para probar la gastronomía loca
 Gastronomía: Prueba platillos como los tacos, los tamales, las enchiladas y la chilaquil. 
 Vida nocturna: Disfruta de la vida nocturna en bares, clubes y cantinas. 
 Seguridad: Sigue las recomendaciones de seguridad, como evitar calles solitarias y no mostrar objetos de valor. 
+
+## Foto
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsucOiGvmIaiUCuRjkAQgSKQHrMkMRhGFQuQ&s)
