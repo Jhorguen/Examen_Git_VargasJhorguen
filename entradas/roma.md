@@ -15,3 +15,10 @@ Algunas actividades recomendadas son visitar los museos Vaticanos, el Coliseo, l
 
 ## Foto
 ![](https://humanidades.com/wp-content/uploads/2016/06/civilizacion-romana-e1558669365322.jpg)
+
+## Información
+Idioma: El idioma oficial de Roma es el italiano. 
+Moneda: La moneda oficial de Roma es el euro.
+Clima: Roma tiene un clima mediterráneo con inviernos suaves y veranos calurosos.
+Seguridad: Roma es una ciudad segura, pero es importante tomar precauciones habituales al viajar.
+Eventos: Roma organiza una gran variedad de eventos culturales y festivales a lo largo del año, como el Festival de Cine de Roma y el Festival de Música de Roma. 
