@@ -18,3 +18,5 @@ Seguridad: Sigue las recomendaciones de seguridad, como evitar calles solitarias
 
 ## Foto
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsucOiGvmIaiUCuRjkAQgSKQHrMkMRhGFQuQ&s)
+
+## Information
