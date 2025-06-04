@@ -8,3 +8,6 @@ Considera visitar el Cristo Redentor, el Pan de Azúcar, las playas de Copacaban
 
 ## Foto
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlQJECvpfc7XyHHKjDAHAJZbSD_k-B0t3FEg&s)
+
+## Recomendacion
+Si lo que quieres es fiesta y descontrol te recomendamos visitar!
