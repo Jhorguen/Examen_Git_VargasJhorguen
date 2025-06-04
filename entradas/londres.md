@@ -11,3 +11,6 @@ Parques: Relajarse en Hyde Park, Regent's Park o Greenwich Park.
 Gastronomía: Probar la cocina local en pubs tradicionales o restaurantes internacionales. 
 Entretenimiento: Salir de fiesta en los numerosos bares y clubs de la ciudad. 
 Compras: Visitar los grandes almacenes de Oxford Street o el mercado de Portobello Road. 
+
+## Foto
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn3uHs13yhLOaku_ci1sULqiMmtUUynK-bYA&s)
