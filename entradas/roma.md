@@ -12,3 +12,6 @@ Alojamiento:
 Roma ofrece una amplia variedad de opciones de alojamiento, desde hoteles de lujo hasta hostales económicos. 
 Actividades:
 Algunas actividades recomendadas son visitar los museos Vaticanos, el Coliseo, la Plaza de San Pedro, la Fuente de Trevi y pasear por los encantadores barrios de Trastevere y Monti. 
+
+## Foto
+![](https://humanidades.com/wp-content/uploads/2016/06/civilizacion-romana-e1558669365322.jpg)
