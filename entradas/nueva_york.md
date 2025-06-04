@@ -22,3 +22,5 @@ Nueva York es un paraíso para los amantes de las compras, con una gran variedad
 ## Foto
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBQo-Kd653htjq8iapwLMbTujaSku52Ge2Pw&s)
 
+## Información 
+Nueva york es una excelente ciudad para conocerla caminando te recomendamos visitarla si no tienes visa vete por el hueco!
