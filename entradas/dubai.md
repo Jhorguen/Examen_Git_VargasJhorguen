@@ -15,3 +15,6 @@ Marina de Dubái: Pasea por este puerto deportivo artificial, con sus restaurant
 Ski Dubai: Disfruta de la nieve bajo techo en este parque de esquí y snowboard. 
 Parque Acuático Wild Wadi: Disfruta de atracciones acuáticas, toboganes y la playa. 
 Dubai Creek: Haz un recorrido en Abra (barco tradicional) y explora el mercado de especias y de oro. 
+
+## Foto
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1xkA_9D2aGeTsLpHSzAAWLj8yUnT4KJmv5w&s)
